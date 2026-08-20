@@ -4,7 +4,7 @@
 
 TechCelic is a full-stack digital studio site built as a static, multi-page website — no frameworks, no build step, just HTML, CSS, and vanilla JavaScript.
 
-🔗 **Live site:** [saadkhan021.github.io/TechCelic](tech-celic.vercel.app/)
+🔗 **Live site:** [tech-celic.vercel.app/](https://tech-celic.vercel.app/)
 
 ---
 
